@@ -1,0 +1,12 @@
+{
+    "id": "eulagree",
+    "version": "1.0.0",
+    "name": "EULAgree",
+    "description": {
+		"en_us": "I always agree with EULA, don't ask me",
+		"zh_cn": "我总是同意EULA，不要问我"
+	},
+    "author": [
+        "Huaji_MUR233"
+    ]
+}
